@@ -41,6 +41,7 @@ coqpit==0.0.17
 coqui-tts==0.24.2
 coqui-tts-trainer==0.1.4
 cryptography==42.0.8
+cs-dlp @ file:///C:/Users/Ronal/cs-dlp/cs-dlp
 cycler==0.12.1
 cymem==2.0.8
 Cython==3.0.11
@@ -161,7 +162,7 @@ num2words==0.5.13
 numba==0.60.0
 numpy==1.26.4
 openai==1.68.2
-whisper==1.1.0
+openai-whisper @ git+https://github.com/openai/whisper.git@173ff7dd1d9fb1c4fddea0d41d704cfefeb8908c
 openepub==0.0.8
 openpyxl==3.1.5
 orjson==3.10.11
